@@ -2,7 +2,7 @@
 
 import unittest
 from PyQt5.QtWidgets import QApplication
-from main import MyTestApp
+from mytest_ui import MyTestApp
 
 app = QApplication([])
 
